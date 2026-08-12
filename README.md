@@ -22,25 +22,25 @@ noted as future work.
 
 | # | Section | Status |
 |---|---|---|
-| 01 | Problem Definition | ✅ Done |
-| 02 | CAD and Design Evolution | 🔶 In Progress |
-| 03 | Material Selection | ✅ Done |
-| 04 | CG and Stability | ✅ Done |
-| 05 | Load Cases | ⏳ Planned |
-| 06 | Free Body Diagrams | ⏳ Planned |
-| 07 | Analytical Calculations | ✅ Done |
-| 08 | Static FEA | ⏳ Planned |
-| 09 | Mesh Convergence | ⏳ Planned |
-| 10 | Analytical vs FEA | ⏳ Planned |
-| 11 | Modal Analysis | 🔶 In Progress |
-| 12 | Harmonic Analysis | 🔶 In Progress |
-| 13 | Fatigue Analysis | ⏳ Planned |
-| 14 | Stress Concentration | ⏳ Planned |
-| 15 | Motor Holder Optimization | ⏳ Planned (pending motor specs) |
-| 16 | Frame Optimization | ⏳ Planned |
-| 17 | Buckling | ⏳ Planned |
-| 18 | Sensitivity Study | ⏳ Planned |
-| 19 | Final Validation | ⏳ Planned |
-| 20 | Results and Conclusions | ⏳ Planned |
+| 01 | Problem Definition | Done |
+| 02 | CAD and Design Evolution |  In Progress |
+| 03 | Material Selection | Done |
+| 04 | CG and Stability |  Done |
+| 05 | Load Cases | Planned |
+| 06 | Free Body Diagrams | Planned |
+| 07 | Analytical Calculations | Done |
+| 08 | Static FEA | Planned |
+| 09 | Mesh Convergence |  Planned |
+| 10 | Analytical vs FEA | Planned |
+| 11 | Modal Analysis |  In Progress |
+| 12 | Harmonic Analysis |  In Progress |
+| 13 | Fatigue Analysis |  Planned |
+| 14 | Stress Concentration |  Planned |
+| 15 | Motor Holder Optimization |  Planned |
+| 16 | Frame Optimization | Planned |
+| 17 | Buckling | Planned |
+| 18 | Sensitivity Study | Planned |
+| 19 | Final Validation | Planned |
+| 20 | Results and Conclusions | Planned |
 
 
