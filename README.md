@@ -23,11 +23,11 @@ noted as future work.
 | # | Section | Status |
 |---|---|---|
 | 01 | Problem Definition | Done |
-| 02 | CAD and Design Evolution |  In Progress |
+| 02 | CAD and Design Evolution |  Done |
 | 03 | Material Selection | Done |
 | 04 | CG and Stability |  Done |
 | 05 | Analytical Calculations | Done |
-| 06 | Static FEA | Planned |
+| 06 | Static FEA | Done |
 | 07 | Mesh Convergence |  Planned |
 | 08 | Analytical vs FEA | Planned |
 | 09 | Modal Analysis |  In Progress |
