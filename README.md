@@ -26,21 +26,19 @@ noted as future work.
 | 02 | CAD and Design Evolution |  In Progress |
 | 03 | Material Selection | Done |
 | 04 | CG and Stability |  Done |
-| 05 | Load Cases | Planned |
-| 06 | Free Body Diagrams | Planned |
-| 07 | Analytical Calculations | Done |
-| 08 | Static FEA | Planned |
-| 09 | Mesh Convergence |  Planned |
-| 10 | Analytical vs FEA | Planned |
-| 11 | Modal Analysis |  In Progress |
-| 12 | Harmonic Analysis |  In Progress |
-| 13 | Fatigue Analysis |  Planned |
-| 14 | Stress Concentration |  Planned |
-| 15 | Motor Holder Optimization |  Planned |
-| 16 | Frame Optimization | Planned |
-| 17 | Buckling | Planned |
-| 18 | Sensitivity Study | Planned |
-| 19 | Final Validation | Planned |
-| 20 | Results and Conclusions | Planned |
+| 05 | Analytical Calculations | Done |
+| 06 | Static FEA | Planned |
+| 07 | Mesh Convergence |  Planned |
+| 08 | Analytical vs FEA | Planned |
+| 09 | Modal Analysis |  In Progress |
+| 10 | Harmonic Analysis |  In Progress |
+| 11 | Fatigue Analysis |  Planned |
+| 12 | Stress Concentration |  Planned |
+| 13 | Motor Holder Optimization |  Planned |
+| 14 | Frame Optimization | Planned |
+| 15 | Buckling | Planned |
+| 16 | Sensitivity Study | Planned |
+| 17 | Final Validation | Planned |
+| 18 | Results and Conclusions | Planned |
 
 
