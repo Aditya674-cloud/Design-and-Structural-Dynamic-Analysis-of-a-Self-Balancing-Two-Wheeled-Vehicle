@@ -30,7 +30,7 @@ noted as future work.
 | 06 | Static FEA | Done |
 | 07 | Mesh Convergence |  Done |
 | 08 | Modal Analysis |  In Progress |
-| 09 | Harmonic Analysis |  In Progress |
+| 09 | Dynamic Analysis |  In Progress |
 | 10 | Final Validation | Planned |
 | 11 | Results and Conclusions | Planned |
 
