@@ -9,7 +9,7 @@ structural validation.
 ## Overview
 
 This repository documents the mechanical design and analysis of a 
-self-balancing Segway-class vehicle capable of supporting a ~100 kg 
+self-balancing Segway-class vehicle capable of supporting a 100 kg 
 rider. The work spans dynamic modeling (Lagrangian mechanics), 
 material selection, load case definition, and structural validation 
 through static, modal, harmonic, and fatigue FEA in SolidWorks.
@@ -29,8 +29,8 @@ noted as future work.
 | 05 | Analytical Calculations | Done |
 | 06 | Static FEA | Done |
 | 07 | Mesh Convergence |  Done |
-| 08 | Modal Analysis |  In Progress |
-| 09 | Dynamic Analysis |  In Progress |
+| 08 | Modal Analysis | Done |
+| 09 | Dynamic Analysis |  DOne |
 | 10 | Final Validation | Planned |
 | 11 | Results and Conclusions | Planned |
 
